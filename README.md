@@ -30,6 +30,7 @@ Esse app necessida de integração com a [habits-api](https://github.com/devmedi
 - [Zod Dev](https://zod.dev/)
 - [CLSX](https://www.npmjs.com/package/clsx)
 - [Git](https://git-scm.com/)
+- [Expo Notifications](https://docs.expo.dev/versions/latest/sdk/notifications/)
 
 
 ## CONTATO
